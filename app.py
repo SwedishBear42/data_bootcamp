@@ -50,6 +50,8 @@ st.markdown(
 )
 
 st.title("Fantasy Football Data Analysis")
+st.subtitle("By Nico Lupin")
+st.subheader("nml5639@nyu.edu")
 
 
 #Description
