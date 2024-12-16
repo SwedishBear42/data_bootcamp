@@ -1,4 +1,4 @@
-import pandas as pd
+dimport pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -50,7 +50,7 @@ st.markdown(
 )
 
 st.title("Fantasy Football Data Analysis")
-st.subtitle("By Nico Lupin")
+st.header("By Nico Lupin")
 st.subheader("nml5639@nyu.edu")
 
 
